@@ -1,5 +1,5 @@
 # To practice resolving conflicts with Git and GitHub using pull requests, follow these steps:
-
+__Some other change on main__
 ## Preparation
 
 ### 1. Create a new repository on GitHub, for example, named `conflict-practice`
